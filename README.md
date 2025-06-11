@@ -15,3 +15,11 @@
 - second line
 + third line
 + fourth line
+>Black Quote
+'single line of code'
+'''
+**Multiple line of code**
+a = int(intput())
+print(a)
+
+'''
